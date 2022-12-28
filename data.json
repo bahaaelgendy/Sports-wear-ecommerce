@@ -1,0 +1,642 @@
+{
+    "shoes": [
+        {
+            "id":"1",
+            "image":"content/assets/images/shoes/shoes1 (1).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"2",
+            "image":"content/assets/images/shoes/shoes1 (2).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"3",
+            "image":"content/assets/images/shoes/shoes1 (3).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"4",
+            "image":"content/assets/images/shoes/shoes1 (4).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"5",
+            "image":"content/assets/images/shoes/shoes1 (5).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"6",
+            "image":"content/assets/images/shoes/shoes1 (6).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"7",
+            "image":"content/assets/images/shoes/shoes1 (7).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"8",
+            "image":"content/assets/images/shoes/shoes1 (8).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"9",
+            "image":"content/assets/images/shoes/shoes1 (9).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"10",
+            "image":"content/assets/images/shoes/shoes1 (10).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"11",
+            "image":"content/assets/images/shoes/shoes1 (11).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"12",
+            "image":"content/assets/images/shoes/shoes1 (12).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"13",
+            "image":"content/assets/images/shoes/shoes1 (13).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"14",
+            "image":"content/assets/images/shoes/shoes1 (14).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"15",
+            "image":"content/assets/images/shoes/shoes1 (15).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"16",
+            "image":"content/assets/images/shoes/shoes1 (16).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        }
+
+    ],
+    "shorts":[
+        {
+            "id":"17",
+            "image":"content/assets/images/shorts/shorts (1).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"18",
+            "image":"content/assets/images/shorts/shorts (2).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"19",
+            "image":"content/assets/images/shorts/shorts (3).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"20",
+            "image":"content/assets/images/shorts/shorts (4).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"21",
+            "image":"content/assets/images/shorts/shorts (5).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"22",
+            "image":"content/assets/images/shorts/shorts (6).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"23",
+            "image":"content/assets/images/shorts/shorts (7).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"24",
+            "image":"content/assets/images/shorts/shorts (8).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"25",
+            "image":"content/assets/images/shorts/shorts (9).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"26",
+            "image":"content/assets/images/shorts/shorts (10).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"27",
+            "image":"content/assets/images/shorts/shorts (11).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"28",
+            "image":"content/assets/images/shorts/shorts (12).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"29",
+            "image":"content/assets/images/shorts/shorts (13).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"30",
+            "image":"content/assets/images/shorts/shorts (14).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"31",
+            "image":"content/assets/images/shorts/shorts (15).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"32",
+            "image":"content/assets/images/shorts/shorts (16).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        }
+
+    ],
+    "t-shirts":[
+        {
+            "id":"33",
+            "image":"content/assets/images/t-shirts/shirts (1).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"34",
+            "image":"content/assets/images/t-shirts/shirts (3).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"35",
+            "image":"content/assets/images/t-shirts/shirts (3).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"36",
+            "image":"content/assets/images/t-shirts/shirts (4).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"37",
+            "image":"content/assets/images/t-shirts/shirts (5).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"38",
+            "image":"content/assets/images/t-shirts/shirts (6).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"39",
+            "image":"content/assets/images/t-shirts/shirts (7).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"40",
+            "image":"content/assets/images/t-shirts/shirts (8).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"41",
+            "image":"content/assets/images/t-shirts/shirts (9).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"42",
+            "image":"content/assets/images/t-shirts/shirts (10).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"43",
+            "image":"content/assets/images/t-shirts/shirts (11).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"44",
+            "image":"content/assets/images/t-shirts/shirts (12).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"45",
+            "image":"content/assets/images/t-shirts/shirts (13).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"46",
+            "image":"content/assets/images/t-shirts/shirts (14).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"47",
+            "image":"content/assets/images/t-shirts/shirts (15).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"48",
+            "image":"content/assets/images/t-shirts/shirts (16).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        }
+
+    ],
+    "hoodies":[
+        {
+            "id":"49",
+            "image":"content/assets/images/hoodies/hoodies (1).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"50",
+            "image":"content/assets/images/hoodies/hoodies (2).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"51",
+            "image":"content/assets/images/hoodies/hoodies (3).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"52",
+            "image":"content/assets/images/hoodies/hoodies (4).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"53",
+            "image":"content/assets/images/hoodies/hoodies (5).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"54",
+            "image":"content/assets/images/hoodies/hoodies (6).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"55",
+            "image":"content/assets/images/hoodies/hoodies (7).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"56",
+            "image":"content/assets/images/hoodies/hoodies (8).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"57",
+            "image":"content/assets/images/hoodies/hoodies (9).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"58",
+            "image":"content/assets/images/hoodies/hoodies (10).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"59",
+            "image":"content/assets/images/hoodies/hoodies (11).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"60",
+            "image":"content/assets/images/hoodies/hoodies (12).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"61",
+            "image":"content/assets/images/hoodies/hoodies (13).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"62",
+            "image":"content/assets/images/hoodies/hoodies (14).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"63",
+            "image":"content/assets/images/hoodies/hoodies (15).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"64",
+            "image":"content/assets/images/hoodies/hoodies (16).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        }
+
+    ],
+    "woman":[
+        {
+            "id":"65",
+            "image":"content/assets/images/woman/woman (1).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"67",
+            "image":"content/assets/images/woman/woman (2).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"68",
+            "image":"content/assets/images/woman/woman (3).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"69",
+            "image":"content/assets/images/woman/woman (4).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"70",
+            "image":"content/assets/images/woman/woman (5).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"71",
+            "image":"content/assets/images/woman/woman (6).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"72",
+            "image":"content/assets/images/woman/woman (7).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"73",
+            "image":"content/assets/images/woman/woman (8).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"74",
+            "image":"content/assets/images/woman/woman (9).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"75",
+            "image":"content/assets/images/woman/woman (10).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"76",
+            "image":"content/assets/images/woman/woman (11).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"77",
+            "image":"content/assets/images/woman/woman (12).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"78",
+            "image":"content/assets/images/woman/woman (13).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"79",
+            "image":"content/assets/images/woman/woman (14).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"80",
+            "image":"content/assets/images/woman/woman (15).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"81",
+            "image":"content/assets/images/woman/woman (16).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        }
+    ],
+    "kids":[
+        {
+            "id":"82",
+            "image":"content/assets/images/kids/kids (1).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"83",
+            "image":"content/assets/images/kids/kids (2).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"84",
+            "image":"content/assets/images/kids/kids (3).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"85",
+            "image":"content/assets/images/kids/kids (4).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"86",
+            "image":"content/assets/images/kids/kids (5).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"87",
+            "image":"content/assets/images/kids/kids (6).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"88",
+            "image":"content/assets/images/kids/kids (7).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"89",
+            "image":"content/assets/images/kids/kids (8).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"90",
+            "image":"content/assets/images/kids/kids (9).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"91",
+            "image":"content/assets/images/kids/kids (10).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+
+        },
+        {
+            "id":"92",
+            "image":"content/assets/images/kids/kids (11).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"93",
+            "image":"content/assets/images/kids/kids (12).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"94",
+            "image":"content/assets/images/kids/kids (13).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"95",
+            "image":"content/assets/images/kids/kids (14).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"96",
+            "image":"content/assets/images/kids/kids (15).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        },
+        {
+            "id":"97",
+            "image":"content/assets/images/kids/kids (16).jpg",
+            "title":"CAMPUS 80S SHOES",
+            "price":"EGP 2.635"
+        }
+    ]
+}

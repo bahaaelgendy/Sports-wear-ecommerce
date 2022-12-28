@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="12px" viewBox="0 0 24 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>↪ 🔄 Icon (Black)</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mini-Cart" transform="translate(-149.000000, -489.000000)">
+            <g id="Button" transform="translate(26.000000, 470.000000)">
+                <g id="Group-7" transform="translate(123.000000, 13.000000)">
+                    <polygon id="Fill-1" points="0 24 24 24 24 0 0 0"></polygon>
+                    <g id="Group-6" transform="translate(0.000000, 7.000000)" stroke="#000000" stroke-width="2">
+                        <polyline id="Stroke-2" points="17.5889 0 22.5889 5 17.5889 10"></polyline>
+                        <line x1="0" y1="5" x2="22" y2="5" id="Stroke-4"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

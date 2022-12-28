@@ -1,0 +1,42 @@
+.h2Cart {
+    height: 300px;
+    background: url(../assets/images/shopping.453f08b8cbc85e998a8a.jpg);
+    align-items: center;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    height: 300px;
+    justify-content: center;
+    position: relative;
+}
+
+.cart .details h2,
+h3,
+h4 {
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.price h2 {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.price p {
+    font-weight: 18px;
+    font-weight: 400;
+}
+
+.img-cart {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+}
+
+.img-cart img {
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+}
